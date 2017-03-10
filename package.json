@@ -1,0 +1,23 @@
+{
+  "name": "-y",
+  "version": "1.0.0",
+  "description": "FULL STACK BUILD IN CLASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Durmaethor/BLAH.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Durmaethor/BLAH/issues"
+  },
+  "homepage": "https://github.com/Durmaethor/BLAH#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
